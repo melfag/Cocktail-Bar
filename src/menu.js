@@ -16,9 +16,8 @@ const createMenu = () => {
 	for (let i = 0; i < 8; i++) {
 		const menuGrid = document.createElement('div');
 		menuGrid.classList.add('menu-grid');
-		menuGrid.appendChild(createImg('/dist/cocktails/items/item' + `${i}` + '.png'));
+		menuGrid.appendChild(createImg('cocktails/items/item' + `${i}` + '.png'));
 		menuGrid.appendChild(createParagraph(cocktailNames[i]));
-
 		menu.appendChild(menuGrid);
 	}
 
