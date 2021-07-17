@@ -1,6 +1,3 @@
 # Cocktail-Bar
 
-Live Demo
-
-
-test
+[Live Demo](https://melfag.github.io/Cocktail-Bar/)
