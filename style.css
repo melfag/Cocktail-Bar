@@ -7,7 +7,7 @@
 }
 
 body {
-	background-image: url(/dist/cocktails/bar_edited.jpg);
+	background-image: url(/cocktails/bar_edited.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
